@@ -8,6 +8,7 @@ A currated list of Jekyll resources.
 	- [Comments](#comments)
 	- [Content Management](#content-management)
 	- [Search](#search)
+	- [Hosting](#hosting)
 - [Templates](#templates)
 - [Contribute](#contribute)
 
@@ -31,6 +32,11 @@ A currated list of Jekyll resources.
 	- [CloudCannon](https://cloudcannon.com)
 - ### Search
 	- [Algolio](https://www.algolia.com)
+- ### Hosting
+	- [Netlify](https://www.netlify.com/)
+	- [GitHub Pages](https://help.github.com/en/articles/using-jekyll-as-a-static-site-generator-with-github-pages)
+	- [GitLab Pages](https://gitlab.com/pages/jekyll)
+	- [AWS S3](https://github.com/laurilehmijoki/jekyll-s3)
 
 ## Templates
 
