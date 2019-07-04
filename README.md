@@ -6,6 +6,7 @@ A currated list of Jekyll resources.
 	- [Official Resources](#official-resources)
 	- [Community](#community)
 	- [Comments](#comments)
+	- [Forms](#forms)
 	- [Content Management](#content-management)
 	- [Search](#search)
 	- [Hosting](#hosting)
@@ -27,9 +28,13 @@ A currated list of Jekyll resources.
 	- [Disqus](https://disqus.com)
 	- [Staticman](https://staticman.net/)
 	- [Talkyard](https://www.talkyard.io/blog-comments)
+- ### Forms
+	- [Basin](https://usebasin.com/)
 - ### Content Management
 	- [Netlify CMS](https://www.netlifycms.org)
 	- [CloudCannon](https://cloudcannon.com)
+	- [Forestry](https://forestry.io/)
+	- [Siteleaf](https://www.siteleaf.com/)
 - ### Search
 	- [Algolio](https://www.algolia.com)
 - ### Hosting
